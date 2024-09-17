@@ -7,3 +7,5 @@ ___
 ***Please make homeworks by your own and look in this repository only when you've already done the assignments. Anyway, it is in your interests if you really want to learn something.***
 ___
 * [Data Preprocessing](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/data%20preprocessing%20)
+* [EDA](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/EDA%20)
+
