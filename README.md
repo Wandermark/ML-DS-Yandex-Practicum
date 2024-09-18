@@ -10,4 +10,5 @@ ___
 * [EDA](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/EDA%20)
 * [Statistical Data Analysis](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/statistical%20data%20analysis%20)
 * [Project 1](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Project%201%20)
+* [Linear Models in ML](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Linear%20Models%20in%20ML%20)
 
