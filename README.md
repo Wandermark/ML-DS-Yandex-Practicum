@@ -17,4 +17,5 @@ ___
 * [Numerical Methods](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Numerical%20Methods%20)
 * [Time Series](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Time%20Series%20)
 * [Machine Learning for Text](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Machine%20Learning%20for%20Text%20)
+* [Computer Vision](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Computer%20Vision%20)
 
