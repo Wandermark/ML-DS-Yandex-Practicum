@@ -13,4 +13,5 @@ ___
 * [Linear Models in ML](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Linear%20Models%20in%20ML%20)
 * [Supervised Learning](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Supervised%20Learning%20)
 * [Project 2](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Project%202%20)
+* [Machine Learning for Business](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Machine%20Learning%20for%20Business%20)
 
