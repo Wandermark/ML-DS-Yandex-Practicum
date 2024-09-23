@@ -15,4 +15,5 @@ ___
 * [Project 2](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Project%202%20)
 * [Machine Learning for Business](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Machine%20Learning%20for%20Business%20)
 * [Numerical Methods](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Numerical%20Methods%20)
+* [Time Series](https://github.com/Wandermark/ML-DS-Yandex-Practicum/tree/main/Time%20Series%20)
 
